@@ -19,13 +19,13 @@
 
 ### Topics of Study
 
-- [ ][Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [ ][Data Structures](#data-structures)
-    - [ ][Arrays](#arrays)
-    - [ ][Linked Lists](#linked-lists)
-    - [X][Stack](#stack)
-    - [ ][Queue](#queue)
-    - [ ][Hash table](#hash-table)
+- [X] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [Data Structures](#data-structures)
+    - [ ] [Arrays](#arrays)
+    - [ ] [Linked Lists](#linked-lists)
+    - [X] [Stack](#stack)
+    - [ ] [Queue](#queue)
+    - [ ] [Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
