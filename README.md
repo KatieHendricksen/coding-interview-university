@@ -19,13 +19,13 @@
 
 ### Topics of Study
 
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
+- [ ][Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [ ][Data Structures](#data-structures)
+    - [ ][Arrays](#arrays)
+    - [ ][Linked Lists](#linked-lists)
+    - [X][Stack](#stack)
+    - [ ][Queue](#queue)
+    - [ ][Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)
@@ -139,7 +139,7 @@ But don't forget to do coding problems from above while you learn!
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
 - [X] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [X] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [X] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [slides](https://archive.org/details/lecture2_202008)
