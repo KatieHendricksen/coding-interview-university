@@ -1,22 +1,6 @@
 
 ## Table of Contents
 
-### The Study Plan
-
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [A Note About Video Resources](#a-note-about-video-resources)
-- [Choose a Programming Language](#choose-a-programming-language)
-- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [Interview Prep Books](#interview-prep-books)
-- [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [What you Won't See Covered](#what-you-wont-see-covered)
-- [The Daily Plan](#the-daily-plan)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding Problems](#coding-problems)
-
 ### Topics of Study
 
 - [X] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
@@ -1525,6 +1509,22 @@ Sit back and enjoy.
 - More papers: [1,000 papers](https://github.com/0voice/computer_expert_paper)
 
 
+### The Study Plan
+
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [A Note About Video Resources](#a-note-about-video-resources)
+- [Choose a Programming Language](#choose-a-programming-language)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Interview Prep Books](#interview-prep-books)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
+- [Coding Question Practice](#coding-question-practice)
+- [Coding Problems](#coding-problems)
+- 
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
