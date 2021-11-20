@@ -8,7 +8,7 @@
     - [X] [Arrays](#arrays)
     - [X] [Linked Lists](#linked-lists)
     - [X] [Stack](#stack)
-    - [ ] [Queue](#queue)
+    - [X] [Queue](#queue)
     - [ ] [Hash table](#hash-table)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
