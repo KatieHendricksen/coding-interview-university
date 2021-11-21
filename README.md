@@ -9,7 +9,7 @@
     - [X] [Linked Lists](#linked-lists)
     - [X] [Stack](#stack)
     - [X] [Queue](#queue)
-    - [ ] [Hash table](#hash-table)
+    - [X] [Hash table](#hash-table)
 - [X] [More Knowledge](#more-knowledge)
     - [X] [Binary search](#binary-search)
     - [X] [Bitwise operations](#bitwise-operations)
