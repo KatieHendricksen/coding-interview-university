@@ -11,7 +11,7 @@
     - [X] [Queue](#queue)
     - [ ] [Hash table](#hash-table)
 - [ ] [More Knowledge](#more-knowledge)
-    - [ ] [Binary search](#binary-search)
+    - [X] [Binary search](#binary-search)
     - [ ] [Bitwise operations](#bitwise-operations)
 - [ ] [Trees](#trees)
     - [ ] [Trees - Notes & Background](#trees---notes--background)
