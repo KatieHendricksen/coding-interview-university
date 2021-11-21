@@ -12,7 +12,7 @@
     - [ ] [Hash table](#hash-table)
 - [X] [More Knowledge](#more-knowledge)
     - [X] [Binary search](#binary-search)
-    - [ ] [Bitwise operations](#bitwise-operations)
+    - [X] [Bitwise operations](#bitwise-operations)
 - [ ] [Trees](#trees)
     - [ ] [Trees - Notes & Background](#trees---notes--background)
     - [ ] [Binary search trees: BSTs](#binary-search-trees-bsts)
