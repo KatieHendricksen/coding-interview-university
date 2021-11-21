@@ -10,7 +10,7 @@
     - [X] [Stack](#stack)
     - [X] [Queue](#queue)
     - [ ] [Hash table](#hash-table)
-- [ ] [More Knowledge](#more-knowledge)
+- [X] [More Knowledge](#more-knowledge)
     - [X] [Binary search](#binary-search)
     - [ ] [Bitwise operations](#bitwise-operations)
 - [ ] [Trees](#trees)
