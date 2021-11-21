@@ -220,9 +220,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [X] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
         - [X] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [X] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
-        - [X] [The Bit Twiddler](https://bits.stephan-brumme.com/)
-        - [X] [The Bit Twiddler Interactive](https://bits.stephan-brumme.com/interactive.html)
-        - [X] [Bit Hacks (video)](https://www.youtube.com/watch?v=ZusiKXcz_ac)
+        - [X] [The Bit Twiddler]
 		- [ ] [Practice Operations](https://pconrad.github.io/old_pconrad_cs16/topics/bitOps/)
     - [ ] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
