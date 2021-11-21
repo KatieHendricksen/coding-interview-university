@@ -226,9 +226,9 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
     - [X] Count set bits
         - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
-    - [ ] Swap values:
+    - [X] Swap values:
         - [Swap](https://bits.stephan-brumme.com/swap.html)
-    - [ ] Absolute value:
+    - [X] Absolute value:
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
 ## Trees
