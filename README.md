@@ -4,7 +4,7 @@
 ### Topics of Study
 
 - [X] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [ ] [Data Structures](#data-structures)
+- [X] [Data Structures](#data-structures)
     - [X] [Arrays](#arrays)
     - [X] [Linked Lists](#linked-lists)
     - [X] [Stack](#stack)
