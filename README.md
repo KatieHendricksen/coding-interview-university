@@ -307,11 +307,11 @@ if you can identify the runtime complexity of different algorithms. It's a super
 - [X] Quick sort code:
     - [X] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
-- [ ] Implement:
+- [X] Implement:
     - [ ] Mergesort: O(n log n) average and worst case
     - [ ] Quicksort O(n log n) average case
-    - [ ] Selection sort and insertion sort are both O(n^2) average and worst case
-    - For heapsort, see Heap data structure above
+    - [X] Selection sort and insertion sort are both O(n^2) average and worst case
+    - [X] For heapsort, see Heap data structure above
 
 - [X] Not required, but I recommended them:
     - [X] [Radix Sort (video)](https://www.youtube.com/watch?v=xhr26ia4k38)
