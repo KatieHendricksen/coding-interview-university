@@ -432,6 +432,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - ### Combinatorics (n choose k) & Probability
     - [X] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
+    - [X] Make School: Probability(https://www.youtube.com/watch?v=sZkAAk9Wwa4)
 
 - ### NP, NP-Complete and Approximation Algorithms
     - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
