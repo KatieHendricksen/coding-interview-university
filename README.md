@@ -17,12 +17,12 @@
     - [X] [Trees - Notes & Background](#trees---notes--background)
     - [X] [Binary search trees: BSTs](#binary-search-trees-bsts)
     - [X] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-- [ ] [Sorting](#sorting)
-    - [ ] selection
-    - [ ] insertion
-    - [ ] heapsort
-    - [ ] quicksort
-    - [ ] merge sort
+- [X] [Sorting](#sorting)
+    - [X] selection
+    - [X] insertion
+    - [X] heapsort
+    - [X] quicksort
+    - [X] merge sort
 - [ ] [Graphs](#graphs)
     - [ ] directed
     - [ ] undirected
