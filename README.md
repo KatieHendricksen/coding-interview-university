@@ -33,7 +33,7 @@
     - [ ] [Recursion](#recursion)
     - [ ] [Dynamic Programming](#dynamic-programming)
     - [ ] [Design Patterns](#design-patterns)
-    - [ ] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
+    - [X] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
     - [ ] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
     - [ ] [How computers process a program](#how-computers-process-a-program)
     - [ ] [Caches](#caches)
