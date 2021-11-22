@@ -16,7 +16,7 @@
 - [X] [Trees](#trees)
     - [X] [Trees - Notes & Background](#trees---notes--background)
     - [X] [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [ ] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [X] [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
 - [ ] [Sorting](#sorting)
     - [ ] selection
     - [ ] insertion
@@ -269,9 +269,9 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - visualized as a tree, but is usually linear in storage (array, linked list)
     - [X] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
     - [X] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
-    - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
-    - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
-    - [ ] Implement a max-heap:
+    - [X] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
+    - [X] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
+    - [X] Implement a max-heap:
         - [ ] insert
         - [ ] sift_up - needed for insert
         - [ ] get_max - returns the max item, without removing it
