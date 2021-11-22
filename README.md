@@ -192,7 +192,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
             - [X] [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
             - [X] [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
-    - [ ] Implement with array using linear probing
+    - [X] Implement with array using linear probing
         - hash(k, m) - m is size of hash table
         - add(key, value) - if key already exists, update value
         - exists(key)
@@ -252,7 +252,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Binary search trees: BSTs
     - [X] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)    
-    - [ ] Implement:
+    - [X] Implement:
         - [X] insert    // insert value into tree
         - [X] get_node_count // get count of values stored
         - [X] print_values // prints the values in the tree, from min to max
@@ -261,8 +261,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [X] get_height // returns the height in nodes (single node's height is 1)
         - [X] get_min   // returns the minimum value stored in the tree
         - [X] get_max   // returns the maximum value stored in the tree
-        - [ ] is_binary_search_tree
-        - [ ] delete_value
+        - [X] is_binary_search_tree
+        - [X] delete_value
         - [X] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
