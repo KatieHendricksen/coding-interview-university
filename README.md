@@ -308,8 +308,8 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [X] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
 - [X] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
-    - [ ] Quicksort O(n log n) average case
+    - [X] Mergesort: O(n log n) average and worst case
+    - [X] Quicksort O(n log n) average case
     - [X] Selection sort and insertion sort are both O(n^2) average and worst case
     - [X] For heapsort, see Heap data structure above
 
