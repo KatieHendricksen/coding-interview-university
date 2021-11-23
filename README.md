@@ -34,7 +34,7 @@
     - [ ] [Dynamic Programming](#dynamic-programming)
     - [ ] [Design Patterns](#design-patterns)
     - [X] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [ ] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
+    - [X] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
     - [X] [How computers process a program](#how-computers-process-a-program)
     - [ ] [Caches](#caches)
     - [ ] [Processes and Threads](#processes-and-threads)
