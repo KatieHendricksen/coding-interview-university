@@ -23,12 +23,12 @@
     - [X] heapsort
     - [X] quicksort
     - [X] merge sort
-- [ ] [Graphs](#graphs)
-    - [ ] directed
-    - [ ] undirected
-    - [ ] adjacency matrix
-    - [ ] adjacency list
-    - [ ] traversals: BFS, DFS
+- [X] [Graphs](#graphs)
+    - [X] directed
+    - [X] undirected
+    - [X] adjacency matrix
+    - [X] adjacency list
+    - [X] traversals: BFS, DFS
 - [ ] [Even More Knowledge](#even-more-knowledge)
     - [ ] [Recursion](#recursion)
     - [ ] [Dynamic Programming](#dynamic-programming)
@@ -323,28 +323,14 @@ If you need more detail on this subject, see "Sorting" section in [Additional De
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
 
 - Notes:
-    - [ ] There are 4 basic ways to represent a graph in memory:
-         - [ ] objects and pointers
-        - [ ] adjacency matrix
-        - [ ] adjacency list
-        - [ ] adjacency map
-    - [ ] Familiarize yourself with each representation and its pros & cons
-    - [ ] BFS and DFS - know their computational complexity, their trade offs, and how to implement them in real code
-    - [ ] When asked a question, look for a graph-based solution first, then move on if none
-
-- [ ] Graphs (review and more):
-
-    - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.006 Dijkstra (video)](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.006 Bellman-Ford (video)](https://www.youtube.com/watch?v=ozsuci5pIso&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=17)
-    - [ ] [6.006 Speeding Up Dijkstra (video)](https://www.youtube.com/watch?v=CHvQ3q_gJ7E&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=18)
-    - [ ] [Aduni: Graph Algorithms I - Topological Sorting, Minimum Spanning Trees, Prim's Algorithm -  Lecture 6 (video)]( https://www.youtube.com/watch?v=i_AQT_XfvD8&index=6&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
-    - [ ] [Aduni: Graph Algorithms II - DFS, BFS, Kruskal's Algorithm, Union Find Data Structure - Lecture 7 (video)]( https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7)
-    - [ ] [Aduni: Graph Algorithms III: Shortest Path - Lecture 8 (video)](https://www.youtube.com/watch?v=DiedsPsMKXc&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=8)
-    - [ ] [Aduni: Graph Alg. IV: Intro to geometric algorithms - Lecture 9 (video)](https://www.youtube.com/watch?v=XIAQRlNkJAw&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=9)
-    - [ ] [CS 61B 2014: Weighted graphs (video)](https://archive.org/details/ucberkeley_webcast_zFbq8vOZ_0k)
-    - [ ] [Greedy Algorithms: Minimum Spanning Tree (video)](https://www.youtube.com/watch?v=tKwnms5iRBU&index=16&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-    - [ ] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://www.youtube.com/watch?v=RpgcYiky7uw)
+    - [X] There are 4 basic ways to represent a graph in memory:
+        - [X] objects and pointers
+        - [X] adjacency matrix
+        - [X] adjacency list
+        - [X] adjacency map
+    - [X] Familiarize yourself with each representation and its pros & cons
+    - [X] BFS and DFS - know their computational complexity, their trade offs, and how to implement them in real code
+    - [X] When asked a question, look for a graph-based solution first, then move on if none
 
 - Full Coursera Course:
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
