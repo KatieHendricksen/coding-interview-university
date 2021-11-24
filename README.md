@@ -31,7 +31,7 @@
     - [X] traversals: BFS, DFS
 - [ ] [Even More Knowledge](#even-more-knowledge)
     - [X] [Recursion](#recursion)
-    - [ ] [Dynamic Programming](#dynamic-programming)
+    - [X] [Dynamic Programming](#dynamic-programming)
     - [ ] [Design Patterns](#design-patterns)
     - [X] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
     - [X] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
