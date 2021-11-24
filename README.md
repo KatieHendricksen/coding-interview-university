@@ -30,7 +30,7 @@
     - [X] adjacency list
     - [X] traversals: BFS, DFS
 - [ ] [Even More Knowledge](#even-more-knowledge)
-    - [ ] [Recursion](#recursion)
+    - [X] [Recursion](#recursion)
     - [ ] [Dynamic Programming](#dynamic-programming)
     - [ ] [Design Patterns](#design-patterns)
     - [X] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
@@ -356,11 +356,11 @@ Graphs can be used to represent many problems in computer science, so this secti
 - ### Recursion
     - [X] Stanford lectures on recursion & backtracking:
         - [X] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
-        - [ ] [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
-        - [ ] [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
-        - [ ] [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
-    - When it is appropriate to use it?
-    - How is tail recursion better than not?
+        - [X] [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
+        - [X] [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
+        - [X] [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
+    - [ ] When it is appropriate to use it?
+    - [ ] How is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
         - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
