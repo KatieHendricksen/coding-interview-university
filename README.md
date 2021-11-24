@@ -333,7 +333,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] When asked a question, look for a graph-based solution first, then move on if none
 
 - Full Coursera Course:
-    - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
+    - [X] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - I'll implement:
     - [ ] DFS with adjacency list (recursive)
