@@ -385,7 +385,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] visitor
         - [ ] factory, abstract factory
         - [ ] facade
-        - [ ] observer
+        - [X] observer
         - [ ] proxy
         - [ ] delegate
         - [ ] command
