@@ -36,7 +36,7 @@
     - [X] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
     - [X] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
     - [X] [How computers process a program](#how-computers-process-a-program)
-    - [ ] [Caches](#caches)
+    - [X] [Caches](#caches)
     - [ ] [Processes and Threads](#processes-and-threads)
     - [ ] [Testing](#testing)
     - [ ] [String searching & manipulations](#string-searching--manipulations)
@@ -422,10 +422,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 - ### Caches
-    - [ ] LRU cache:
-        - [ ] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
-        - [ ] [Implementing LRU (video)](https://www.youtube.com/watch?v=bq6N7Ym81iI)
-        - [ ] [LeetCode - 146 LRU Cache (C++) (video)](https://www.youtube.com/watch?v=8-FZRAjR7qU)
+    - [X] LRU cache:
+        - [X] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
     - [ ] CPU cache:
         - [ ] [MIT 6.004 L15: The Memory Hierarchy (video)](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
         - [ ] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
