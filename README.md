@@ -395,9 +395,9 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] iterator
         - [ ] composite
         - [ ] flyweight
-    - [ ] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
-    - [ ] [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
-    - [ ] [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans#structural-design-patterns)
+    - [X] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+    - [X] [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
+    - [X] [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans#structural-design-patterns)❤️
 
 - ### Combinatorics (n choose k) & Probability
     - [X] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
