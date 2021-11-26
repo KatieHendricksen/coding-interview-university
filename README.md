@@ -39,7 +39,7 @@
     - [X] [Caches](#caches)
     - [ ] [Processes and Threads](#processes-and-threads)
     - [ ] [Testing](#testing)
-    - [ ] [String searching & manipulations](#string-searching--manipulations)
+    - [X] [String searching & manipulations](#string-searching--manipulations)
     - [ ] [Tries](#tries)
     - [X] [Floating Point Numbers](#floating-point-numbers)
     - [X] [Unicode](#unicode)
