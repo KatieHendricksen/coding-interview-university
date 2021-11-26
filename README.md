@@ -43,7 +43,7 @@
     - [ ] [Tries](#tries)
     - [X] [Floating Point Numbers](#floating-point-numbers)
     - [X] [Unicode](#unicode)
-    - [ ] [Endianness](#endianness)
+    - [X] [Endianness](#endianness)
     - [ ] [Networking](#networking)
 - [ ] [Final Review](#final-review)
 
