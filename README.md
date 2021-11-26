@@ -41,7 +41,7 @@
     - [ ] [Testing](#testing)
     - [ ] [String searching & manipulations](#string-searching--manipulations)
     - [ ] [Tries](#tries)
-    - [ ] [Floating Point Numbers](#floating-point-numbers)
+    - [X] [Floating Point Numbers](#floating-point-numbers)
     - [ ] [Unicode](#unicode)
     - [ ] [Endianness](#endianness)
     - [ ] [Networking](#networking)
