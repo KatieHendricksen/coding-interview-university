@@ -32,7 +32,7 @@
 - [ ] [Even More Knowledge](#even-more-knowledge)
     - [X] [Recursion](#recursion)
     - [X] [Dynamic Programming](#dynamic-programming)
-    - [ ] [Design Patterns](#design-patterns)
+    - [X] [Design Patterns](#design-patterns)
     - [X] [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
     - [X] [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
     - [X] [How computers process a program](#how-computers-process-a-program)
