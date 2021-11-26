@@ -376,25 +376,25 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - ### Design patterns
     - [X] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
-    - [ ] Learn these patterns:
+    - [X] Learn these patterns:
         - [X] strategy
         - [X] singleton
-        - [ ] adapter
-        - [ ] prototype
-        - [ ] decorator
-        - [ ] visitor
+        - [X] adapter
+        - [X] prototype
+        - [X] decorator
+        - [X] visitor
         - [X] factory
         - [X] abstract factory
-        - [ ] facade
+        - [X] facade
         - [X] observer
-        - [ ] proxy
-        - [ ] delegate
-        - [ ] command
-        - [ ] state
-        - [ ] memento
-        - [ ] iterator
-        - [ ] composite
-        - [ ] flyweight
+        - [X] proxy
+        - [X] delegate
+        - [X] command
+        - [X] state
+        - [X] memento
+        - [X] iterator
+        - [X] composite
+        - [X] flyweight
     - [X] [Series of videos (27 videos)](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
     - [X] [Handy reference: 101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
     - [X] [Design patterns for humans](https://github.com/kamranahmedse/design-patterns-for-humans#structural-design-patterns)❤️
