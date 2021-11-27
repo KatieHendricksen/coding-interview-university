@@ -456,10 +456,11 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - ### Testing
     - To cover:
-        - [ ] how unit testing works
-        - [ ] what are mock objects
-        - [ ] what is integration testing
-        - [ ] what is dependency injection
+        - [X] how unit testing works
+        - [X] what are mock objects
+        - [X] what is integration testing
+        - [X] what is dependency injection
+        - [X] https://www.guru99.com/software-testing-introduction-importance.html
     - [X] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
     - [X] [Open Lecture by James Bach on Software Testing (video)](https://www.youtube.com/watch?v=ILkT_HV9DVU)
     - [X] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://vimeo.com/83960706)
