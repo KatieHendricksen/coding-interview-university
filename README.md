@@ -433,26 +433,26 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] [Operating Systems and System Programming (video)](https://www.youtube.com/watch?v=qdkxXygc3rE)
     - [X] [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
-        - Processes, Threads, Concurrency issues
-            - Difference between processes and threads
-            - Processes
-            - Threads
-            - Locks
-            - Mutexes
-            - Semaphores
-            - Monitors
-            - How they work?
-            - Deadlock
-            - Livelock
-        - CPU activity, interrupts, context switching
-        - Modern concurrency constructs with multicore processors
-        - [Paging, segmentation and virtual memory (video)](https://www.youtube.com/watch?v=LKe7xK0bF7o&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=2)
-        - [Interrupts (video)](https://www.youtube.com/watch?v=uFKi2-J-6II&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=3)
-        - Process resource needs (memory: code, static storage, stack, heap, and also file descriptors, i/o)
-        - Thread resource needs (shares above (minus stack) with other threads in the same process but each has its own pc, stack counter, registers, and stack)
-        - Forking is really copy on write (read-only) until the new process writes to memory, then it does a full copy.
-        - Context switching
-            - How context switching is initiated by the operating system and underlying hardware?
+        - [X] Processes, Threads, Concurrency issues
+            - [X] Difference between processes and threads
+            - [X] Processes
+            - [X] Threads
+            - [ ] Locks
+            - [ ] Mutexes
+            - [ ] Semaphores
+            - [ ] Monitors
+            - [X] How they work?
+            - [X] Deadlock
+            - [X] Livelock
+        - [ ] CPU activity, interrupts, context switching
+        - [ ] Modern concurrency constructs with multicore processors
+        - [ ] [Paging, segmentation and virtual memory (video)](https://www.youtube.com/watch?v=LKe7xK0bF7o&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=2)
+        - [ ] [Interrupts (video)](https://www.youtube.com/watch?v=uFKi2-J-6II&list=PLCiOXwirraUCBE9i_ukL8_Kfg6XNv7Se8&index=3)
+        - [ ] Process resource needs (memory: code, static storage, stack, heap, and also file descriptors, i/o)
+        - [ ] Thread resource needs (shares above (minus stack) with other threads in the same process but each has its own pc, stack counter, registers, and stack)
+        - [ ] Forking is really copy on write (read-only) until the new process writes to memory, then it does a full copy.
+        - [ ] Context switching
+            - [ ] How context switching is initiated by the operating system and underlying hardware?
     - [ ] concurrency in Python (videos):
         - [ ] [Short series on threads](https://www.youtube.com/playlist?list=PL1H1sBF1VAKVMONJWJkmUh6_p8g4F2oy1)
         - [ ] [Python Threads](https://www.youtube.com/watch?v=Bs7vPNbB9JM)
