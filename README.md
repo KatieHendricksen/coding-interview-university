@@ -428,9 +428,9 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [X] [Cache memory(video)](https://www.youtube.com/watch?v=IA8au8Qr3lo)
 
 - ### Processes and Threads
-    - [ ] Computer Science 162 - Operating Systems (25 videos):
-        - for processes and threads see videos 1-11
-        - [Operating Systems and System Programming (video)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+    - [X] Computer Science 162 - Operating Systems:
+        - 8 short videos 
+        - [Operating Systems and System Programming (video)](https://www.youtube.com/watch?v=qdkxXygc3rE)
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
