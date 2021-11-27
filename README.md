@@ -437,10 +437,10 @@ Graphs can be used to represent many problems in computer science, so this secti
             - [X] Difference between processes and threads
             - [X] Processes
             - [X] Threads
-            - [ ] Locks
-            - [ ] Mutexes
-            - [ ] Semaphores
-            - [ ] Monitors
+            - [X] Locks
+            - [X] Mutexes
+            - [X] Semaphores
+            - [X] Monitors
             - [X] How they work?
             - [X] Deadlock
             - [X] Livelock
