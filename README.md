@@ -38,7 +38,7 @@
     - [X] [How computers process a program](#how-computers-process-a-program)
     - [X] [Caches](#caches)
     - [X] [Processes and Threads](#processes-and-threads)
-    - [ ] [Testing](#testing)
+    - [X] [Testing](#testing)
     - [X] [String searching & manipulations](#string-searching--manipulations)
     - [X] [Tries](#tries)
     - [X] [Floating Point Numbers](#floating-point-numbers)
@@ -460,14 +460,14 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] what are mock objects
         - [ ] what is integration testing
         - [ ] what is dependency injection
-    - [ ] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
-    - [ ] [Open Lecture by James Bach on Software Testing (video)](https://www.youtube.com/watch?v=ILkT_HV9DVU)
+    - [X] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
+    - [X] [Open Lecture by James Bach on Software Testing (video)](https://www.youtube.com/watch?v=ILkT_HV9DVU)
     - [X] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://vimeo.com/83960706)
         - [slides](http://gotocon.com/dl/goto-berlin-2013/slides/SteveFreeman_TestDrivenDevelopmentThatsNotWhatWeMeant.pdf)
-    - [ ] Dependency injection:
-        - [ ] [video](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
-        - [ ] [Tao Of Testing](http://jasonpolites.github.io/tao-of-testing/ch3-1.1.html)
-    - [ ] [How to write tests](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
+    - [X] Dependency injection:
+        - [X] [video](https://www.youtube.com/watch?v=IKD2-MAkXyQ)
+        - [X] [Tao Of Testing](http://jasonpolites.github.io/tao-of-testing/ch3-1.1.html)
+    - [X] [How to write tests](http://jasonpolites.github.io/tao-of-testing/ch4-1.1.html)
 
 - ### String searching & manipulations
     - [X] [Sedgewick - Suffix Arrays (video)](https://www.coursera.org/learn/algorithms-part2/lecture/TH18W/suffix-arrays)
