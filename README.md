@@ -515,8 +515,8 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
     - [X] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://www.youtube.com/watch?v=nomyRJehhnM)
     - [X] [HTTP 2.0 (video)](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
-    - [ ] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://www.youtube.com/watch?v=t5xYI0jzOf4)
-    - [ ] [Socket Programming (video)](https://www.youtube.com/watch?v=G75vN2mnJeQ)
+    - [X] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://www.youtube.com/watch?v=t5xYI0jzOf4)
+    - [X] [Socket Programming (video)](https://www.pubnub.com/blog/socket-programming-in-python-client-server-p2p/)
 
 ---
 
