@@ -2,7 +2,7 @@
 ## Table of Contents
 
 ### Topics of Study
-
+- [ ] [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
 - [X] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [X] [Data Structures](#data-structures)
     - [X] [Arrays](#arrays)
@@ -61,7 +61,6 @@
 ### Optional Extra Topics & Resources
 
 - [Additional Books](#additional-books)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
 - [Additional Learning](#additional-learning)
     - [Compilers](#compilers)
     - [Emacs and vi(m)](#emacs-and-vim)
