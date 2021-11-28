@@ -512,9 +512,9 @@ Graphs can be used to represent many problems in computer science, so this secti
     - Otherwise, this is just good to know
     - [X] [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
     - [X] [UDP and TCP: Comparison of Transport Protocols (video)](https://www.youtube.com/watch?v=Vdc8TCESIg8)
-    - [ ] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
-    - [ ] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://www.youtube.com/watch?v=nomyRJehhnM)
-    - [ ] [HTTP 2.0 (video)](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
+    - [X] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+    - [X] [Packet Transmission across the Internet. Networking & TCP/IP tutorial. (video)](https://www.youtube.com/watch?v=nomyRJehhnM)
+    - [X] [HTTP 2.0 (video)](https://www.youtube.com/watch?v=E9FxNzv1Tr8)
     - [ ] [Subnetting Demystified - Part 5 CIDR Notation (video)](https://www.youtube.com/watch?v=t5xYI0jzOf4)
     - [ ] [Socket Programming (video)](https://www.youtube.com/watch?v=G75vN2mnJeQ)
 
