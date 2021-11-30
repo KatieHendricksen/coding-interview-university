@@ -657,7 +657,8 @@ You're never really done.
         - [X] [Easy-to-read paper](https://raft.github.io/)
         - [X] [Infographic](http://thesecretlivesofdata.com/raft/) ❤️
 - [X] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
-- [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [X] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [X] [NoSQL overview](https://www.youtube.com/watch?v=0buKQHokLK8)
 - [X] Scalability:
     - You don't need all of these. Just pick a few that interest you.
     - [X] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
