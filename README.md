@@ -701,8 +701,8 @@ You're never really done.
         - [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
     - For even more, see "Mining Massive Datasets" video series in the [Video Series](#video-series) section
 - [ ] Practicing the system design process: Here are some ideas to try working through on paper, each with some documentation on how it was handled in the real world:
-    - review: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-    - [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
+    - [X] review: [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+    - [X] [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
     - [X] [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/system-design.pdf)
     - Exercises:
         - [Design a random unique ID generation system](https://blog.twitter.com/2010/announcing-snowflake)
