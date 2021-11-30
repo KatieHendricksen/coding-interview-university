@@ -658,14 +658,14 @@ You're never really done.
         - [X] [Infographic](http://thesecretlivesofdata.com/raft/) ❤️
 - [X] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
-- [ ] Scalability:
+- [X] Scalability:
     - You don't need all of these. Just pick a few that interest you.
-    - [ ] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
-    - [ ] Short series:
-        - [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
-        - [Database](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
-        - [Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
-        - [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+    - [X] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
+    - [X] Short series:
+        - [X] [Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+        - [X] [Database](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+        - [X] [Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+        - [X] [Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
     - [ ] [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
     - [ ] [Fallacies of Distributed Computing Explained](https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
     - [ ] [Jeff Dean - Building Software Systems At Google and Lessons Learned (video)](https://www.youtube.com/watch?v=modXC5IWTJI)
