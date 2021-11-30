@@ -651,12 +651,12 @@ You're never really done.
 - [X] [Transactions Across Datacenters (video)](https://www.youtube.com/watch?v=srOgpXECblk)
 - [X] [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 - [X] [Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- [ ] Consensus Algorithms:
-    - [ ] Paxos - [Paxos Agreement - Computerphile (video)](https://www.youtube.com/watch?v=s8JqcZtvnsM)
-    - [ ] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://www.youtube.com/watch?v=P9Ydif5_qvE)
-        - [ ] [Easy-to-read paper](https://raft.github.io/)
-        - [ ] [Infographic](http://thesecretlivesofdata.com/raft/)
-- [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
+- [X] Consensus Algorithms:
+    - [X] Paxos - [Paxos Agreement - Computerphile (video)](https://www.youtube.com/watch?v=s8JqcZtvnsM)
+    - [X] Raft - [An Introduction to the Raft Distributed Consensus Algorithm (video)](https://www.youtube.com/watch?v=P9Ydif5_qvE)
+        - [X] [Easy-to-read paper](https://raft.github.io/)
+        - [X] [Infographic](http://thesecretlivesofdata.com/raft/) ❤️
+- [X] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 - [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [ ] Scalability:
     - You don't need all of these. Just pick a few that interest you.
